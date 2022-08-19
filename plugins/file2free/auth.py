@@ -1,7 +1,7 @@
 import os
 import requests
 
-F2FAUTH = 'https://github.com/hrisbel/cmoodle-usuarios/blob/main/f2fauth.txt'
+F2FAUTH = 'https://raw.githubusercontent.com/hrisbel/cmoodle-usuarios/main/f2fauth.txt'
 
 def auth(username):
     list = []
