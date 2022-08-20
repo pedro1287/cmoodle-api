@@ -1,7 +1,7 @@
 import os
 import requests
 
-F2FAUTH = 'https://raw.githubusercontent.com/hrisbel/usuarios/main/f2fauth.txt'
+F2FAUTH = 'https://raw.githubusercontent.com/JAGB2021/usuarios/main/f2fauth.txt'
 
 def auth(username):
     list = []
